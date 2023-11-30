@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikas Gautam
-- 👀 I’m interested in Android development 
+- 👀 I’m interested in Mobile Application development 
 - 🌱 I’m currently learning flutter 
 - 📫 How to reach me gautamvikas754@gmail.com
 
